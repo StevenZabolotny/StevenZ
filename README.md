@@ -23,6 +23,12 @@ Team Members:</b> Steven Zabolotny, Albert Yeung<br>
 Isn't this a mini-project? Anyways, it's supposed to implement the Riot Games API in order to access player data from League of Legends and perhaps present various interested parts of the data in a website (not sure specifically).<br>
 <b>https://github.com/StevenZabolotny/RitoGamesAPI.git</b><br>
 
+<b>Final Project<br>
+Team Members:</b> Steven Zabolotny, Albert Yeung, Richard Zhan, Sean Yip<br>
+<b>Description:</b><br>
+A game of killer that revolves around using google maps. Players can move around the actual map of NYC and attempt to figure out who the killer is while the killer tries to eliminate all other players. Players will have the option to chat and will be limited in movement in some way.<br>
+<b>https://github.com/Bouowmx/best-project-2015.git</b><br>
+
 Mini Projects
 -------------
 <ul><li>intro-proj 1
