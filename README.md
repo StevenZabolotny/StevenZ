@@ -2,7 +2,7 @@ Steven Zabolotny
 ================
 Fall Semester
 =============
-Period 6
+Period 7
 Main Projects
 -------------
 <b>Final Project<br>
